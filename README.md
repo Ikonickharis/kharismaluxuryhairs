@@ -32,7 +32,7 @@ kharisma-luxury-hairs/
     ├── luxu-hair5.JPG
     └── luxu-hair6.JPG
 
-
+```
 ---
 
 ## 🌐 Pages Overview
@@ -95,7 +95,7 @@ kharisma-luxury-hairs/
 ---
 🙏 Acknowledgments
 
-Thanks to PLP community- more specifically Mr. EDDY- whose tutorials, code snippets inspired and supported this build.
+Thanks to PLP community- especially Mr. EDDY- whose tutorials, code snippets inspired and supported this build.
 
 
 
